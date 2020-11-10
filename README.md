@@ -1,7 +1,4 @@
-# ColumbusWildlife
-Scripts to collect images of wildlife native to Columbus, Ohio and analyze with Species Classification API
-
-# columbus-wildlife-workshop
+# Columbus-Wildlife-Workshop
 
 Hello! In this workshop, we will be introducing you to the process of gathering your own data for machine learning applications, and understanding how you can refine your queries/search terms to protect for underlying biases (e.g multilingual queries) and maximize the amount of results you get back.
 
