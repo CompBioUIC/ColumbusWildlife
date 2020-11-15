@@ -112,6 +112,33 @@ class SpeciesClassifier:
 
 
         display(HTML(html_string))  
+        
+    #manually filter images to get ground truth of species predictions
+    def get_ground_truth(self, img_url, species_prediction): 
+
+        html_string = "<style>" \
+                      "div.output_subarea{overflow-x:hidden !important}" \
+                      ".container{margin:0 auto}" \
+                      ".single_image{width:50%} " \
+                      "</style>"
+
+        html_string += "<div class='container'>" \
+                           "<div class='image_container'>" \
+                               "<img class='single_image' src='"+ img_url + "'/>"\
+                           "</div>" \
+                       "</div>"
+
+
+        display(HTML(html_string))
+        print('Species Predicted In Image: ', species_prediction)
+        print("Is the species prediction correct? (y/n):", end = " ")
+        if input() == "n": 
+            print("The predicted species is incorrect. Please specify the correct species: ")
+            true_prediction = input()
+        else:
+            true_prediction = species_prediction
+        
+        return true_prediction
 
     def display_classification_results(self, species, species_common, progress, is_first_item): 
 
