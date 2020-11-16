@@ -3,6 +3,7 @@ import json
 import time
 import zipfile
 
+## uses Flickr.photos.search() API
 class Flickr:
 
 
@@ -52,9 +53,7 @@ class Flickr:
         return json_data
 
     def search(self, q, date_since="2019-12-01", saveTo=False):
-        print("Hello!!")
-    ##AFRICA BBOX - FOR GIRAFFES - TO DO: modify search() params to allow easy insert for bounding box coordinates 
-#         base_url = '''https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=6ab5883201c84be19c9ceb0a4f5ba959&text={text}&min_taken_date{min_date}&extras=description%2Cdate_upload%2C+date_taken%2C+owner_name%2C+last_update%2C+geo%2C+tags%2C+views%2C+media%2C+url_l&page={page}&bbox= -18.615646%2C-34.936608%2C50.993729%2C35.266926&format=json&nojsoncallback=1'''
+        print("Retrieving Flickr Results..")
 
         base_url = '''https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=6ab5883201c84be19c9ceb0a4f5ba959&text={text}&min_taken_date{min_date}&extras=description%2Cdate_upload%2C+date_taken%2C+owner_name%2C+last_update%2C+geo%2C+tags%2C+views%2C+media%2C+url_l&page={page}&format=json&nojsoncallback=1'''
         
