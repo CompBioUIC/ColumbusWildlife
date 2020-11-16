@@ -1,0 +1,101 @@
+image,image_url,species_prediction,true_species
+image-1.jpg,https://live.staticflickr.com/65535/50567923271_926d37d247_b.jpg,BELTED KINGFISHER,BELTED KINGFISHER
+image-3.jpg,https://live.staticflickr.com/65535/50561468316_74b9d94115_b.jpg,COLUMBIAN BLACK TAILED DEER,COLUMBIAN BLACK TAILED DEER
+image-5.jpg,https://live.staticflickr.com/65535/50543914708_e597b1c4d4_b.jpg,NORTHERN CARDINAL,NORTHERN CARDINAL
+image-6.jpg,https://live.staticflickr.com/65535/50525531943_762ca30083_b.jpg,BLUE GRAY GNATCATCHER,BLUE GRAY GNATCATCHER
+image-17.jpg,https://live.staticflickr.com/65535/50524069628_5b4eb7bdfe_b.jpg,WHITE FACED HERON,IRRELEVANT
+image-19.jpg,https://live.staticflickr.com/65535/50524069098_9c1d0b8388_b.jpg,BLACK COTTONWOOD,BLACK COTTONWOOD
+image-23.jpg,https://live.staticflickr.com/65535/50447025723_1079e8dfd5_b.jpg,BARRED OWL,BARRED OWL
+image-24.jpg,https://live.staticflickr.com/65535/50130268502_7be3a73201_b.jpg,BLUE DASHER,BLUE DASHER
+image-25.jpg,https://live.staticflickr.com/65535/50127659968_f34c063b8e_b.jpg,GREAT BLUE HERON,GREAT BLUE HERON
+image-26.jpg,https://live.staticflickr.com/65535/50126738897_da64bb15f6_b.jpg,GREAT BLUE HERON,GREAT BLUE HERON
+image-27.jpg,https://live.staticflickr.com/65535/49978409217_5230070fff_b.jpg,NORTHERN CARDINAL,NORTHERN CARDINAL
+image-28.jpg,https://live.staticflickr.com/65535/49952427656_99249afd42_b.jpg,RED TAILED HAWK,RED TAILED HAWK
+image-31.jpg,https://live.staticflickr.com/65535/49699509886_6f22224733_b.jpg,GREEN LYNX SPIDER,FORK TAILED BUSH KATYDID
+image-32.jpg,https://live.staticflickr.com/65535/46756398285_e79f7c5d51_b.jpg,GREAT BLUE HERON,GREAT BLUE HERON
+image-36.jpg,https://live.staticflickr.com/65535/50148546451_143e948f3e_b.jpg,EASTERN GRAY SQUIRREL,EASTERN GRAY SQUIRREL
+image-37.jpg,https://live.staticflickr.com/65535/50148004383_9685b0ca17_b.jpg,EASTERN COTTONTAIL,EASTERN COTTONTAIL
+image-38.jpg,https://live.staticflickr.com/65535/50148783867_299b343b18_b.jpg,GREAT BLUE HERON,GREAT BLUE HERON
+image-39.jpg,https://live.staticflickr.com/65535/49978409287_94e3296ab5_b.jpg,MOURNING DOVE,MOURNING DOVE
+image-40.jpg,https://live.staticflickr.com/65535/49977626843_6734782769_b.jpg,NORTHERN CARDINAL,NORTHERN CARDINAL
+image-41.jpg,https://live.staticflickr.com/65535/49978408882_f5e6ed7766_b.jpg,HOUSE SPARROW,HOUSE SPARROW
+image-42.jpg,https://live.staticflickr.com/65535/49978408757_db0e13cf09_b.jpg,MOURNING DOVE,MOURNING DOVE
+image-43.jpg,https://live.staticflickr.com/65535/49978408662_d8afa4a226_b.jpg,EASTERN CHIPMUNK,EASTERN CHIPMUNK
+image-44.jpg,https://live.staticflickr.com/65535/49978146526_eb66631882_b.jpg,BLUE JAY,BLUE JAY
+image-45.jpg,https://live.staticflickr.com/65535/49978146391_0b438c0e97_b.jpg,BLUE JAY,BLUE JAY
+image-46.jpg,https://live.staticflickr.com/65535/49978408247_ce6f7e138b_b.jpg,CAROLINA CHICKADEE,CAROLINA CHICKADEE
+image-47.jpg,https://live.staticflickr.com/65535/49977626098_f612ddf8e5_b.jpg,CAROLINA CHICKADEE,CAROLINA CHICKADEE
+image-48.jpg,https://live.staticflickr.com/65535/49978408062_737e4b5d2a_b.jpg,NORTHERN CARDINAL,NORTHERN CARDINAL
+image-49.jpg,https://live.staticflickr.com/65535/49977625953_f0657828b8_b.jpg,EASTERN CHIPMUNK,EASTERN CHIPMUNK
+image-50.jpg,https://live.staticflickr.com/65535/49978145751_41db54e94f_b.jpg,MOURNING DOVE,MOURNING DOVE
+image-51.jpg,https://live.staticflickr.com/65535/49978145661_376275af4f_b.jpg,MOURNING DOVE,MOURNING DOVE
+image-52.jpg,https://live.staticflickr.com/65535/49977625673_de40cdd8d0_b.jpg,LAUGHING DOVE,LAUGHING DOVE
+image-53.jpg,https://live.staticflickr.com/65535/49978407537_0d90a99ca5_b.jpg,EASTERN GRAY SQUIRREL,EASTERN GRAY SQUIRREL
+image-54.jpg,https://live.staticflickr.com/65535/49978145371_d9102fc4a3_b.jpg,EASTERN GRAY SQUIRREL,NOT ENOUGH INFO
+image-56.jpg,https://live.staticflickr.com/65535/49977624878_8968629020_b.jpg,EASTERN GRAY SQUIRREL,EASTERN GRAY SQUIRREL
+image-57.jpg,https://live.staticflickr.com/65535/49977624808_9cc745eddc_b.jpg,EASTERN GRAY SQUIRREL,EASTERN GRAY SQUIRREL
+image-58.jpg,https://live.staticflickr.com/65535/49978144436_a97b857c2e_b.jpg,TUFTED TITMOUSE,TUFTED TITMOUSE
+image-59.jpg,https://live.staticflickr.com/65535/49978406447_37d4456787_b.jpg,TUFTED TITMOUSE,TUFTED TITMOUSE
+image-60.jpg,https://live.staticflickr.com/65535/49977624523_e283e00cf5_b.jpg,HOUSE FINCH,HOUSE FINCH
+image-61.jpg,https://live.staticflickr.com/65535/49977624463_79f7e6e7ec_b.jpg,AMERICAN GOLDFINCH,AMERICAN GOLDFINCH
+image-62.jpg,https://live.staticflickr.com/65535/49978144241_4416d68274_b.jpg,MOURNING DOVE,MOURNING DOVE
+image-63.jpg,https://live.staticflickr.com/65535/49978406197_c8e857df46_b.jpg,AMERICAN ROBIN,AMERICAN ROBIN
+image-64.jpg,https://live.staticflickr.com/65535/49978144056_2815801ff1_b.jpg,HOUSE SPARROW,HOUSE SPARROW
+image-65.jpg,https://live.staticflickr.com/65535/49978143931_85b2d99886_b.jpg,HOUSE SPARROW,HOUSE SPARROW
+image-66.jpg,https://live.staticflickr.com/65535/49977624093_3bc27947db_b.jpg,HOUSE FINCH,HOUSE FINCH
+image-67.jpg,https://live.staticflickr.com/65535/49978143756_5d7da178fd_b.jpg,HOUSE SPARROW,HOUSE SPARROW
+image-68.jpg,https://live.staticflickr.com/65535/49977623863_58acc36809_b.jpg,HOUSE SPARROW,HOUSE SPARROW
+image-69.jpg,https://live.staticflickr.com/65535/49978143581_01354365f7_b.jpg,NORTHERN CARDINAL,NORTHERN CARDINAL
+image-70.jpg,https://live.staticflickr.com/65535/49978405602_1813f23154_b.jpg,NORTHERN CARDINAL,NORTHERN CARDINAL
+image-71.jpg,https://live.staticflickr.com/65535/49977623558_85db053fd8_b.jpg,GREAT HORNED OWL,DOMESTIC CAT
+image-72.jpg,https://live.staticflickr.com/65535/49978405312_f4a7473549_b.jpg,HOUSE FINCH,HOUSE FINCH
+image-73.jpg,https://live.staticflickr.com/65535/49977623098_c94e589381_b.jpg,MOURNING DOVE,MOURNING DOVE
+image-74.jpg,https://live.staticflickr.com/65535/49978142831_3c6065e3ee_b.jpg,BLUE JAY,BLUE JAY
+image-75.jpg,https://live.staticflickr.com/65535/49954610553_d0f4ccc4eb_b.jpg,HUMAN,HUMAN
+image-76.jpg,https://live.staticflickr.com/65535/49750112896_b80e0e9dd1_b.jpg,HARLEQUIN FLOWER,HARLEQUIN FLOWER
+image-77.jpg,https://live.staticflickr.com/65535/49699820907_0447a7908b_b.jpg,GREEN LYNX SPIDER,FORK TAILED BUSH KATYDID
+image-78.jpg,https://live.staticflickr.com/65535/49659223082_5c2fd1b8d5_b.jpg,NORTHERN CARDINAL,NORTHERN CARDINAL
+image-80.jpg,https://live.staticflickr.com/65535/48942280822_53e4b87484_b.jpg,AUSTRALASIAN COMMON GARDEN KATYDID,AUSTRALASIAN COMMON GARDEN KATYDID
+image-81.jpg,https://live.staticflickr.com/65535/48942280702_6187f2deb4_b.jpg,SOUTHERN ARROWWOOD,SOUTHERN ARROWWOOD
+image-84.jpg,https://live.staticflickr.com/65535/48532596302_03d8f3fe8b_b.jpg,EASTERN COTTONTAIL,EASTERN COTTONTAIL
+image-85.jpg,https://live.staticflickr.com/65535/48500261877_472b8bbdb7_b.jpg,GRAY RATSNAKE,GRAY RATSNAKE
+image-86.jpg,https://live.staticflickr.com/65535/48106110257_f9207fb710_b.jpg,MALLARD,MALLARD
+image-87.jpg,https://live.staticflickr.com/65535/48095310383_5dfc8911ce_b.jpg,GREAT BLUE HERON,GREAT BLUE HERON
+image-88.jpg,https://live.staticflickr.com/4911/31179755447_6df0fbf243_b.jpg,COMMON REED,COMMON REED
+image-89.jpg,https://live.staticflickr.com/1834/43185451745_e9e3b02330_b.jpg,HUMAN,HUMAN
+image-91.jpg,https://live.staticflickr.com/1831/30223910158_8ee7ddf5b7_b.jpg,HUMAN,HUMAN
+image-92.jpg,https://live.staticflickr.com/1796/30223909358_51d9e3c08f_b.jpg,HUMAN,HUMAN
+image-94.jpg,https://live.staticflickr.com/1774/30223907908_b04bd883ec_b.jpg,NEW ZEALAND BELLBIRD,NEW ZEALAND BELLBIRD
+image-95.jpg,https://live.staticflickr.com/1772/44092147721_b3cb0b2ce6_b.jpg,HUMAN,HUMAN
+image-96.jpg,https://live.staticflickr.com/1771/42283022010_6d7ff06df1_b.jpg,HUMAN,HUMAN
+image-98.jpg,https://live.staticflickr.com/4769/25216020247_0ddd6a48c2_b.jpg,BALD EAGLE,BALD EAGLE
+image-99.jpg,https://live.staticflickr.com/4442/36319638192_c712b01508_b.jpg,HUMAN,HUMAN
+image-100.jpg,https://live.staticflickr.com/5458/30239543144_c2e050b924_b.jpg,TUFTED TITMOUSE,TUFTED TITMOUSE
+image-101.jpg,https://live.staticflickr.com/5729/30236127623_e909797b0c_b.jpg,AMERICAN BEECH,AMERICAN BEECH
+image-103.jpg,https://live.staticflickr.com/5723/30871617045_dc0442d73b_b.jpg,EASTERN CHIPMUNK,EASTERN CHIPMUNK
+image-104.jpg,https://live.staticflickr.com/5732/30783172821_a9f86af9c0_b.jpg,EASTERN CHIPMUNK,EASTERN CHIPMUNK
+image-105.jpg,https://live.staticflickr.com/5787/30755126852_b0948c0304_b.jpg,TUFTED TITMOUSE,TUFTED TITMOUSE
+image-106.jpg,https://live.staticflickr.com/5556/30871611605_61b0984cf8_b.jpg,EASTERN CHIPMUNK,EASTERN CHIPMUNK
+image-107.jpg,https://live.staticflickr.com/5708/30783167511_f9d056895a_b.jpg,EASTERN CHIPMUNK,EASTERN CHIPMUNK
+image-108.jpg,https://live.staticflickr.com/5549/30835242246_09b3e8882e_b.jpg,EASTERN GRAY SQUIRREL,EASTERN GRAY SQUIRREL
+image-109.jpg,https://live.staticflickr.com/5603/30239437434_c6a468de5b_b.jpg,NORTHERN CARDINAL,NORTHERN CARDINAL
+image-110.jpg,https://live.staticflickr.com/5510/30239436124_f64b378d40_b.jpg,EASTERN GRAY SQUIRREL,EASTERN GRAY SQUIRREL
+image-111.jpg,https://live.staticflickr.com/5615/30835123366_18cde30514_b.jpg,EURASIAN RED SQUIRREL,EASTERN GRAY SQUIRREL
+image-112.jpg,https://live.staticflickr.com/1814/44092146081_f93a7a904e_b.jpg,HUMAN,HUMAN
+image-113.jpg,https://live.staticflickr.com/1772/30223904968_6077cc2f1e_b.jpg,HUMAN,HUMAN
+image-115.jpg,https://live.staticflickr.com/1812/43373315554_b431ccd702_b.jpg,HUMAN,HUMAN
+image-116.jpg,https://live.staticflickr.com/1838/29154226037_0628824651_b.jpg,HUMAN,HUMAN
+image-117.jpg,https://live.staticflickr.com/1832/43373312824_10f0064049_b.jpg,HUMAN,HUMAN
+image-118.jpg,https://live.staticflickr.com/1797/42283043400_3aedbcfe8c_b.jpg,HUMAN,HUMAN
+image-127.jpg,https://live.staticflickr.com/1831/43185463345_3cb39a331b_b.jpg,COMMON REED,COMMON REED
+image-128.jpg,https://live.staticflickr.com/1798/43373298354_e79cbb2706_b.jpg,SCOTS PINE,SCOTS PINE
+image-129.jpg,https://live.staticflickr.com/1795/43185461005_94656c2252_b.jpg,SLIPPERY ELM,SLIPPERY ELM
+image-131.jpg,https://live.staticflickr.com/1797/43373295794_d77c3e19b8_b.jpg,YELLOW BIRCH,YELLOW BIRCH
+image-132.jpg,https://live.staticflickr.com/1813/44092157821_a774e996d2_b.jpg,COMMON REED,COMMON REED
+image-133.jpg,https://live.staticflickr.com/1812/43185456945_f8901ce81a_b.jpg,AMERICAN BEAVER,IRRELEVANT
+image-134.jpg,https://live.staticflickr.com/1778/44092154221_99670d20a0_b.jpg,AMERICAN BEAVER,IRRELEVANT
+image-135.jpg,https://live.staticflickr.com/1839/44092153191_6f64af8416_b.jpg,HUMAN,HUMAN
+image-136.jpg,https://live.staticflickr.com/1835/43185452615_517eeb82c8_b.jpg,HUMAN,HUMAN
+image-137.jpg,https://live.staticflickr.com/1817/43373079454_26982338ae_b.jpg,HUMAN,HUMAN
+image-138.jpg,https://live.staticflickr.com/935/43058563604_939b594e11_b.jpg,EASTERN GRAY SQUIRREL,EASTERN GRAY SQUIRREL
+image-139.jpg,https://live.staticflickr.com/1839/43726849032_7a755a1b4f_b.jpg,EASTERN GRAY SQUIRREL,EASTERN GRAY SQUIRREL
