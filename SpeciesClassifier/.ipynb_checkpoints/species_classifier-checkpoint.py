@@ -173,20 +173,20 @@ class SpeciesClassifier:
 
     def get_api_headers(self, content_type):
 
-        return { CONTENT_TYPE_KEY: content_type, AUTHORIZATION_HEADER: '3c313eb853de41788b3e35e9bcf1ba2e' }
+        return { CONTENT_TYPE_KEY: content_type, AUTHORIZATION_HEADER: '''your Species Classification API key here''' }
 
     def get_api_response(self, imgdata):
 
         url = self.build_classify_url()
 
-        print('Running API...')
+        #print('Running API...')
 
         r = requests.post(url, headers=self.get_api_headers(CONTENT_TYPE), data=imgdata) 
 
         if(r.status_code != 200):
             return r.json(), True
 
-        print('...done')
+        #print('...done')
 
         return r.json(), False
 

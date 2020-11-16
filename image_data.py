@@ -25,8 +25,11 @@ class Save():
     #method to get url links from json list
     def get_urls(self, json_data):
         urls = []
-        for doc in json_data:
-            urls.append(doc['url_l'])
+#         for doc in json_data:
+        for page in json_data:
+            for doc in page:
+                if(doc['url_l'] != ''):
+                    urls.append(doc['url_l'])
         return urls
     
     #convert an image using a url to its bytes representation
@@ -51,6 +54,7 @@ class Save():
         for url in urls:
             i += 1 
             image_name = self.url_to_jpg(i, url, file_path) #saves actual jpg image to file_path specified
+            print(image_name)
             image_dict = {'name': image_name,
                            'url': url,
                            'data': self.get_as_base64(url)
