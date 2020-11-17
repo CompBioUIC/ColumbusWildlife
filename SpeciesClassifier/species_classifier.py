@@ -16,6 +16,7 @@ BASE_URL = 'https://aiforearth.azure-api.net/'
 CLASSIFY_FORMAT = '{0}/species-classification/v{1}/predict?topK={2}&predictMode={3}'
 API_VERSION = '2.0'
 PREDICT_MODE = 'classifyOnly'
+API_KEY = '3c313eb853de41788b3e35e9bcf1ba2e'
 
 class SpeciesClassifier:
     
@@ -173,7 +174,7 @@ class SpeciesClassifier:
 
     def get_api_headers(self, content_type):
 
-        return { CONTENT_TYPE_KEY: content_type, AUTHORIZATION_HEADER: '''your Species Classification API key here''' }
+        return { CONTENT_TYPE_KEY: content_type, AUTHORIZATION_HEADER: API_KEY }
 
     def get_api_response(self, imgdata):
 
